@@ -1,0 +1,10 @@
+C:\Users\benla\OneDrive\Desktop\Qualite logiciel\GestionDesNotesEtudiants\GestionNotesEtudiants\bin\Debug\GestionNotesEtudiants.exe.config
+C:\Users\benla\OneDrive\Desktop\Qualite logiciel\GestionDesNotesEtudiants\GestionNotesEtudiants\bin\Debug\GestionNotesEtudiants.exe
+C:\Users\benla\OneDrive\Desktop\Qualite logiciel\GestionDesNotesEtudiants\GestionNotesEtudiants\bin\Debug\GestionNotesEtudiants.pdb
+C:\Users\benla\OneDrive\Desktop\Qualite logiciel\GestionDesNotesEtudiants\GestionNotesEtudiants\obj\Debug\GestionNotesEtudiants.csproj.AssemblyReference.cache
+C:\Users\benla\OneDrive\Desktop\Qualite logiciel\GestionDesNotesEtudiants\GestionNotesEtudiants\obj\Debug\GestionNotesEtudiants.Form1.resources
+C:\Users\benla\OneDrive\Desktop\Qualite logiciel\GestionDesNotesEtudiants\GestionNotesEtudiants\obj\Debug\GestionNotesEtudiants.Properties.Resources.resources
+C:\Users\benla\OneDrive\Desktop\Qualite logiciel\GestionDesNotesEtudiants\GestionNotesEtudiants\obj\Debug\GestionNotesEtudiants.csproj.GenerateResource.cache
+C:\Users\benla\OneDrive\Desktop\Qualite logiciel\GestionDesNotesEtudiants\GestionNotesEtudiants\obj\Debug\GestionNotesEtudiants.csproj.CoreCompileInputs.cache
+C:\Users\benla\OneDrive\Desktop\Qualite logiciel\GestionDesNotesEtudiants\GestionNotesEtudiants\obj\Debug\GestionNotesEtudiants.exe
+C:\Users\benla\OneDrive\Desktop\Qualite logiciel\GestionDesNotesEtudiants\GestionNotesEtudiants\obj\Debug\GestionNotesEtudiants.pdb
